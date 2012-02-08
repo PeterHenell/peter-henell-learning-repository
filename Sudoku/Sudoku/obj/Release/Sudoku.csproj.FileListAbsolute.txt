@@ -1,0 +1,2 @@
+G:\Source\Other & training etc\Sudoku\Sudoku\obj\Release\Sudoku.exe
+G:\Source\Other & training etc\Sudoku\Sudoku\obj\Release\Sudoku.pdb

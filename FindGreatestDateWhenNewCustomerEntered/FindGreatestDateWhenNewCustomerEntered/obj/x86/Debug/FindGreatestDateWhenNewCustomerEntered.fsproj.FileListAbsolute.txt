@@ -1,0 +1,6 @@
+E:\Source\Other & training etc\FindGreatestDateWhenNewCustomerEntered\FindGreatestDateWhenNewCustomerEntered\bin\Debug\FindGreatestDateWhenNewCustomerEntered.XML
+E:\Source\Other & training etc\FindGreatestDateWhenNewCustomerEntered\FindGreatestDateWhenNewCustomerEntered\bin\Debug\FindGreatestDateWhenNewCustomerEntered.exe
+E:\Source\Other & training etc\FindGreatestDateWhenNewCustomerEntered\FindGreatestDateWhenNewCustomerEntered\bin\Debug\FindGreatestDateWhenNewCustomerEntered.pdb
+E:\Source\Other & training etc\FindGreatestDateWhenNewCustomerEntered\FindGreatestDateWhenNewCustomerEntered\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Source\Other & training etc\FindGreatestDateWhenNewCustomerEntered\FindGreatestDateWhenNewCustomerEntered\obj\x86\Debug\FindGreatestDateWhenNewCustomerEntered.exe
+E:\Source\Other & training etc\FindGreatestDateWhenNewCustomerEntered\FindGreatestDateWhenNewCustomerEntered\obj\x86\Debug\FindGreatestDateWhenNewCustomerEntered.pdb

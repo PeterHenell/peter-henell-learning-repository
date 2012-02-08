@@ -1,0 +1,10 @@
+bin\Debug\Sudoku.exe
+bin\Debug\Sudoku.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Sudoku.exe
+obj\Debug\Sudoku.pdb
+bin\Release\Sudoku.exe
+bin\Release\Sudoku.pdb
+obj\Release\ResolveAssemblyReference.cache
+obj\Release\Sudoku.exe
+obj\Release\Sudoku.pdb

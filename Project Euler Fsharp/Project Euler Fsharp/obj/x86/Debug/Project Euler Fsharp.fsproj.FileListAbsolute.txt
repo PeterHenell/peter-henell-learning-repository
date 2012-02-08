@@ -1,0 +1,6 @@
+E:\Source\Other & training etc\Project Euler Fsharp\Project Euler Fsharp\bin\Debug\Project_Euler_Fsharp.XML
+E:\Source\Other & training etc\Project Euler Fsharp\Project Euler Fsharp\bin\Debug\Project_Euler_Fsharp.exe
+E:\Source\Other & training etc\Project Euler Fsharp\Project Euler Fsharp\bin\Debug\Project_Euler_Fsharp.pdb
+E:\Source\Other & training etc\Project Euler Fsharp\Project Euler Fsharp\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Source\Other & training etc\Project Euler Fsharp\Project Euler Fsharp\obj\x86\Debug\Project_Euler_Fsharp.exe
+E:\Source\Other & training etc\Project Euler Fsharp\Project Euler Fsharp\obj\x86\Debug\Project_Euler_Fsharp.pdb

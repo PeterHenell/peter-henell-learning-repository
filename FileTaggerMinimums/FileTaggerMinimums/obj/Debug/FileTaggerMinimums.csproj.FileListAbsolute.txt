@@ -1,0 +1,9 @@
+E:\Source\#Apps\FileTaggerMinimums\FileTaggerMinimums\bin\Debug\FileTaggerMinimums.exe
+E:\Source\#Apps\FileTaggerMinimums\FileTaggerMinimums\bin\Debug\FileTaggerMinimums.pdb
+E:\Source\#Apps\FileTaggerMinimums\FileTaggerMinimums\obj\Debug\ResolveAssemblyReference.cache
+E:\Source\#Apps\FileTaggerMinimums\FileTaggerMinimums\obj\Debug\FileTaggerMinimums.Properties.Resources.resources
+E:\Source\#Apps\FileTaggerMinimums\FileTaggerMinimums\obj\Debug\FileTaggerMinimums.csproj.GenerateResource.Cache
+E:\Source\#Apps\FileTaggerMinimums\FileTaggerMinimums\obj\Debug\FileTaggerMinimums.exe
+E:\Source\#Apps\FileTaggerMinimums\FileTaggerMinimums\obj\Debug\FileTaggerMinimums.pdb
+E:\Source\#Apps\FileTaggerMinimums\FileTaggerMinimums\obj\Debug\FileTaggerMinimums.Form1.resources
+E:\Source\#Apps\FileTaggerMinimums\FileTaggerMinimums\bin\Debug\FileTaggerMinimums.exe.config

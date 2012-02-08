@@ -1,0 +1,10 @@
+E:\Source\#Apps\FileTaggerMinimums\FileTaggerMinimums\bin\Release\FileTaggerMinimums.exe.config
+E:\Source\#Apps\FileTaggerMinimums\FileTaggerMinimums\bin\Release\FileTaggerMinimums.exe
+E:\Source\#Apps\FileTaggerMinimums\FileTaggerMinimums\bin\Release\FileTaggerMinimums.pdb
+E:\Source\#Apps\FileTaggerMinimums\FileTaggerMinimums\obj\Release\ResolveAssemblyReference.cache
+E:\Source\#Apps\FileTaggerMinimums\FileTaggerMinimums\obj\Release\FileTaggerMinimums.Form1.resources
+E:\Source\#Apps\FileTaggerMinimums\FileTaggerMinimums\obj\Release\FileTaggerMinimums.Properties.Resources.resources
+E:\Source\#Apps\FileTaggerMinimums\FileTaggerMinimums\obj\Release\FileTaggerMinimums.exe
+E:\Source\#Apps\FileTaggerMinimums\FileTaggerMinimums\obj\Release\FileTaggerMinimums.pdb
+E:\Source\#Apps\FileTaggerMinimums\FileTaggerMinimums\obj\Release\GenerateResource.read.1.tlog
+E:\Source\#Apps\FileTaggerMinimums\FileTaggerMinimums\obj\Release\GenerateResource.write.1.tlog

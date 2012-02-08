@@ -1,0 +1,28 @@
+<Configuration>
+  <SharedSolutionDisabledTemplatesManager>
+    <DisabledTemplates />
+  </SharedSolutionDisabledTemplatesManager>
+  <UserSolutionDisabledTemplatesManager>
+    <DisabledTemplates />
+  </UserSolutionDisabledTemplatesManager>
+  <FileStructureView>
+    <AutoScrollToSource>False</AutoScrollToSource>
+    <TrackCaretLocation>False</TrackCaretLocation>
+  </FileStructureView>
+  <ReFormatCode>
+    <ReorderMembers>False</ReorderMembers>
+    <OptimizeUsings>False</OptimizeUsings>
+    <RemoveRedundantThis>False</RemoveRedundantThis>
+    <ShortenReferences>False</ShortenReferences>
+  </ReFormatCode>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <EditorManager>
+    <RecentFiles>
+      <File id="730BEA75-40BA-4637-9358-6D1790316F6E/f:Program.cs" caret="0" scrollPosition="0|0" />
+      <File id="730BEA75-40BA-4637-9358-6D1790316F6E/f:Form1.cs" caret="3181" scrollPosition="0|61" />
+    </RecentFiles>
+  </EditorManager>
+  <CompletionStatisticsManager />
+</Configuration>

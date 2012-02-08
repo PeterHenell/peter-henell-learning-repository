@@ -1,0 +1,8 @@
+E:\Source\Games\Platform\Platform\bin\x86\Debug\Content\Player.xnb
+E:\Source\Games\Platform\Platform\bin\x86\Debug\Platform.exe
+E:\Source\Games\Platform\Platform\bin\x86\Debug\Platform.pdb
+E:\Source\Games\Platform\Platform\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Source\Games\Platform\Platform\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+E:\Source\Games\Platform\Platform\obj\x86\Debug\Platform.exe
+E:\Source\Games\Platform\Platform\obj\x86\Debug\Platform.pdb
+E:\Source\Games\Platform\Platform\bin\x86\Debug\Content\Font1.xnb

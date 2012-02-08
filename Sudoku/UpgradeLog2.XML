@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Sudoku">
+</Property><Property Name="Solution File" Value="E:\Source\Other &amp; training etc\Sudoku\Sudoku.sln">
+</Property><Property Name="User Options File" Value="E:\Source\Other &amp; training etc\Sudoku\Sudoku.suo">
+</Property><Property Name="Date" Value="den 29 januari 2012">
+</Property><Property Name="Time" Value="14:51">
+</Property><Property Name="Log Number" Value="2">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="Sudoku.sln" Description="File successfully backed up as E:\Source\Other &amp; training etc\Sudoku\Backup\Sudoku.sln">
+</Event><Event ErrorLevel="0" Project="" Source="Sudoku.suo" Description="File successfully backed up as E:\Source\Other &amp; training etc\Sudoku\Backup\Sudoku.suo">
+</Event><Event ErrorLevel="0" Project="" Source="Sudoku.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="Sudoku.sln" Description="Converted">
+</Event></UpgradeLog>

@@ -1,0 +1,8 @@
+C:\Documents and Settings\mhenell\My Documents\Visual Studio 2008\Projects\SlowFileMover\bin\Debug\SlowFileMover.exe
+C:\Documents and Settings\mhenell\My Documents\Visual Studio 2008\Projects\SlowFileMover\bin\Debug\SlowFileMover.pdb
+C:\Documents and Settings\mhenell\My Documents\Visual Studio 2008\Projects\SlowFileMover\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\mhenell\My Documents\Visual Studio 2008\Projects\SlowFileMover\obj\Debug\SlowFileMover.Form1.resources
+C:\Documents and Settings\mhenell\My Documents\Visual Studio 2008\Projects\SlowFileMover\obj\Debug\SlowFileMover.Properties.Resources.resources
+C:\Documents and Settings\mhenell\My Documents\Visual Studio 2008\Projects\SlowFileMover\obj\Debug\SlowFileMover.csproj.GenerateResource.Cache
+C:\Documents and Settings\mhenell\My Documents\Visual Studio 2008\Projects\SlowFileMover\obj\Debug\SlowFileMover.exe
+C:\Documents and Settings\mhenell\My Documents\Visual Studio 2008\Projects\SlowFileMover\obj\Debug\SlowFileMover.pdb

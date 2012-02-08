@@ -1,0 +1,16 @@
+G:\Source\Games\Bomberman2009\Bomberman2009\bin\x86\Debug\Bomberman2009.exe
+G:\Source\Games\Bomberman2009\Bomberman2009\bin\x86\Debug\Bomberman2009.pdb
+G:\Source\Games\Bomberman2009\Bomberman2009\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\Source\Games\Bomberman2009\Bomberman2009\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+G:\Source\Games\Bomberman2009\Bomberman2009\obj\x86\Debug\Bomberman2009.exe
+G:\Source\Games\Bomberman2009\Bomberman2009\obj\x86\Debug\Bomberman2009.pdb
+G:\Source\Games\Bomberman2009\Bomberman2009\bin\x86\Debug\Content\Images\bomberman.xnb
+G:\Source\Games\Bomberman2009\Bomberman2009\bin\x86\Debug\Content\Images\brick.xnb
+E:\Source\Games\Bomberman2009\Bomberman2009\bin\x86\Debug\Content\Images\bomberman.xnb
+E:\Source\Games\Bomberman2009\Bomberman2009\bin\x86\Debug\Content\Images\brick.xnb
+E:\Source\Games\Bomberman2009\Bomberman2009\bin\x86\Debug\Bomberman2009.exe
+E:\Source\Games\Bomberman2009\Bomberman2009\bin\x86\Debug\Bomberman2009.pdb
+E:\Source\Games\Bomberman2009\Bomberman2009\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Source\Games\Bomberman2009\Bomberman2009\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+E:\Source\Games\Bomberman2009\Bomberman2009\obj\x86\Debug\Bomberman2009.exe
+E:\Source\Games\Bomberman2009\Bomberman2009\obj\x86\Debug\Bomberman2009.pdb

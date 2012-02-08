@@ -1,0 +1,12 @@
+C:\Documents and Settings\mhenell\My Documents\Visual Studio 2008\Projects\SlowFileMover\bin\Release\SlowFileMover.exe
+C:\Documents and Settings\mhenell\My Documents\Visual Studio 2008\Projects\SlowFileMover\bin\Release\SlowFileMover.pdb
+C:\Documents and Settings\mhenell\My Documents\Visual Studio 2008\Projects\SlowFileMover\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\mhenell\My Documents\Visual Studio 2008\Projects\SlowFileMover\obj\Release\SlowFileMover.SlowFileMover.resources
+C:\Documents and Settings\mhenell\My Documents\Visual Studio 2008\Projects\SlowFileMover\obj\Release\SlowFileMover.Properties.Resources.resources
+C:\Documents and Settings\mhenell\My Documents\Visual Studio 2008\Projects\SlowFileMover\obj\Release\SlowFileMover.csproj.GenerateResource.Cache
+C:\Documents and Settings\mhenell\My Documents\Visual Studio 2008\Projects\SlowFileMover\obj\Release\SlowFileMover.exe
+C:\Documents and Settings\mhenell\My Documents\Visual Studio 2008\Projects\SlowFileMover\obj\Release\SlowFileMover.pdb
+C:\Documents and Settings\mhenell\My Documents\Visual Studio 2008\Projects\SlowFileMover\bin\Release\SlowFileMover.exe.manifest
+C:\Documents and Settings\mhenell\My Documents\Visual Studio 2008\Projects\SlowFileMover\bin\Release\SlowFileMover.application
+C:\Documents and Settings\mhenell\My Documents\Visual Studio 2008\Projects\SlowFileMover\obj\Release\SlowFileMover.exe.manifest
+C:\Documents and Settings\mhenell\My Documents\Visual Studio 2008\Projects\SlowFileMover\obj\Release\SlowFileMover.application

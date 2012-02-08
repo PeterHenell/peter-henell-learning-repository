@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C# Express 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Scheduler", "Scheduler\Scheduler.csproj", "{D586B509-6475-413B-B65C-98E7EF1A37A7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Scheduler.PluginInterfaces", "Scheduler.PluginInterfaces\Scheduler.PluginInterfaces.csproj", "{2FFD0349-70F2-4B4C-AC38-AEBA3B50A50A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Scheduleler.Example_Plugin", "Scheduleler.Example_Plugin\Scheduleler.Example_Plugin.csproj", "{C99FFD06-70CF-4A1A-8533-235DECB77ED3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Scheduler.Service", "Scheduler.Service\Scheduler.Service.csproj", "{599DD434-0D25-41DD-8F7E-FC1B3B8DC2E6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D586B509-6475-413B-B65C-98E7EF1A37A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D586B509-6475-413B-B65C-98E7EF1A37A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D586B509-6475-413B-B65C-98E7EF1A37A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D586B509-6475-413B-B65C-98E7EF1A37A7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2FFD0349-70F2-4B4C-AC38-AEBA3B50A50A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2FFD0349-70F2-4B4C-AC38-AEBA3B50A50A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2FFD0349-70F2-4B4C-AC38-AEBA3B50A50A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2FFD0349-70F2-4B4C-AC38-AEBA3B50A50A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C99FFD06-70CF-4A1A-8533-235DECB77ED3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C99FFD06-70CF-4A1A-8533-235DECB77ED3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C99FFD06-70CF-4A1A-8533-235DECB77ED3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C99FFD06-70CF-4A1A-8533-235DECB77ED3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{599DD434-0D25-41DD-8F7E-FC1B3B8DC2E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{599DD434-0D25-41DD-8F7E-FC1B3B8DC2E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{599DD434-0D25-41DD-8F7E-FC1B3B8DC2E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{599DD434-0D25-41DD-8F7E-FC1B3B8DC2E6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

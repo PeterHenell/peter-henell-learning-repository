@@ -1,0 +1,11 @@
+E:\Source\Från jobbet\AccorSvn\Accor.Scheduler\Accor.Scheduler\obj\Debug\ResolveAssemblyReference.cache
+E:\Source\Från jobbet\AccorSvn\Accor.Scheduler\Accor.Scheduler\obj\Debug\Accor.Scheduler.pdb
+E:\Source\Från jobbet\AccorSvn\Accor.Scheduler\Accor.Scheduler\bin\Debug\Accor.Scheduler.exe.config
+E:\Source\Från jobbet\AccorSvn\Accor.Scheduler\Accor.Scheduler\bin\Debug\Accor.Scheduler.exe
+E:\Source\Från jobbet\AccorSvn\Accor.Scheduler\Accor.Scheduler\bin\Debug\Accor.Scheduler.pdb
+E:\Source\Från jobbet\AccorSvn\Accor.Scheduler\Accor.Scheduler\bin\Debug\Accor.Scheduler.PluginInterfaces.dll
+E:\Source\Från jobbet\AccorSvn\Accor.Scheduler\Accor.Scheduler\bin\Debug\Accor.Scheduler.PluginInterfaces.pdb
+E:\Source\Från jobbet\AccorSvn\Accor.Scheduler\Accor.Scheduler\obj\Debug\Accor.Scheduler.exe
+E:\Source\Från jobbet\AccorSvn\Accor.Scheduler\Scheduler\bin\Debug\Accor.Scheduler.exe.config
+E:\Source\Från jobbet\AccorSvn\Accor.Scheduler\Scheduler\obj\Debug\Accor.Scheduler.exe
+E:\Source\Från jobbet\AccorSvn\Accor.Scheduler\Scheduler\obj\Debug\Accor.Scheduler.pdb

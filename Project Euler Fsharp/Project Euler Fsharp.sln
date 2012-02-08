@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "Project Euler Fsharp", "Project Euler Fsharp\Project Euler Fsharp.fsproj", "{AB74FA08-1A58-4C51-BFF5-84AA38D9208B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AB74FA08-1A58-4C51-BFF5-84AA38D9208B}.Debug|x86.ActiveCfg = Debug|x86
+		{AB74FA08-1A58-4C51-BFF5-84AA38D9208B}.Debug|x86.Build.0 = Debug|x86
+		{AB74FA08-1A58-4C51-BFF5-84AA38D9208B}.Release|x86.ActiveCfg = Release|x86
+		{AB74FA08-1A58-4C51-BFF5-84AA38D9208B}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

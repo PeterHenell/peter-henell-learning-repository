@@ -1,0 +1,5 @@
+G:\Source\Other & training etc\Erostonenes\Erostonenes\bin\Debug\Erostonenes.exe
+G:\Source\Other & training etc\Erostonenes\Erostonenes\bin\Debug\Erostonenes.pdb
+G:\Source\Other & training etc\Erostonenes\Erostonenes\obj\Debug\ResolveAssemblyReference.cache
+G:\Source\Other & training etc\Erostonenes\Erostonenes\obj\Debug\Erostonenes.exe
+G:\Source\Other & training etc\Erostonenes\Erostonenes\obj\Debug\Erostonenes.pdb

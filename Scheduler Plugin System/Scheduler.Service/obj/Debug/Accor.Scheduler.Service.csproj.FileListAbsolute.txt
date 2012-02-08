@@ -1,0 +1,9 @@
+C:\Source\AccorSvn\Accor.Scheduler\Accor.Scheduler.Service\bin\Debug\Accor.Scheduler.Service.exe
+C:\Source\AccorSvn\Accor.Scheduler\Accor.Scheduler.Service\bin\Debug\Accor.Scheduler.Service.pdb
+C:\Source\AccorSvn\Accor.Scheduler\Accor.Scheduler.Service\bin\Debug\Accor.Scheduler.exe
+C:\Source\AccorSvn\Accor.Scheduler\Accor.Scheduler.Service\bin\Debug\Accor.Scheduler.PluginInterfaces.dll
+C:\Source\AccorSvn\Accor.Scheduler\Accor.Scheduler.Service\bin\Debug\Accor.Scheduler.pdb
+C:\Source\AccorSvn\Accor.Scheduler\Accor.Scheduler.Service\bin\Debug\Accor.Scheduler.PluginInterfaces.pdb
+C:\Source\AccorSvn\Accor.Scheduler\Accor.Scheduler.Service\obj\Debug\ResolveAssemblyReference.cache
+C:\Source\AccorSvn\Accor.Scheduler\Accor.Scheduler.Service\obj\Debug\Accor.Scheduler.Service.exe
+C:\Source\AccorSvn\Accor.Scheduler\Accor.Scheduler.Service\obj\Debug\Accor.Scheduler.Service.pdb

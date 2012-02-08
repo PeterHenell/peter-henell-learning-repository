@@ -1,0 +1,16 @@
+bin\Debug\Bildgalleriskapare.exe
+bin\Debug\Bildgalleriskapare.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Bildgalleriskapare.Form1.resources
+obj\Debug\Bildgalleriskapare.Properties.Resources.resources
+obj\Debug\Bildgalleriskapare.csproj.GenerateResource.Cache
+obj\Debug\Bildgalleriskapare.exe
+obj\Debug\Bildgalleriskapare.pdb
+bin\Release\Bildgalleriskapare.exe
+bin\Release\Bildgalleriskapare.pdb
+obj\Release\ResolveAssemblyReference.cache
+obj\Release\Bildgalleriskapare.Form1.resources
+obj\Release\Bildgalleriskapare.Properties.Resources.resources
+obj\Release\Bildgalleriskapare.csproj.GenerateResource.Cache
+obj\Release\Bildgalleriskapare.exe
+obj\Release\Bildgalleriskapare.pdb

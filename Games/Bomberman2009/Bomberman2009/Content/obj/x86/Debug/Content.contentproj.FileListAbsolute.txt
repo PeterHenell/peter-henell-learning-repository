@@ -1,0 +1,2 @@
+G:\Source\Games\Bomberman2009\Bomberman2009\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Source\Games\Bomberman2009\Bomberman2009\Content\obj\x86\Debug\ResolveAssemblyReference.cache

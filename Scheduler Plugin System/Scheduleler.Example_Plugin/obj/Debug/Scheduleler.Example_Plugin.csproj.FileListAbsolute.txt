@@ -1,0 +1,7 @@
+E:\Source\Från jobbet\AccorSvn\Accor.Scheduler\Accor.Scheduleler.Delicard_XML_Posten_Plugin\bin\Debug\Accor.Scheduler.Delicard_XML_Posten_Plugin.dll
+E:\Source\Från jobbet\AccorSvn\Accor.Scheduler\Accor.Scheduleler.Delicard_XML_Posten_Plugin\bin\Debug\Accor.Scheduler.Delicard_XML_Posten_Plugin.pdb
+E:\Source\Från jobbet\AccorSvn\Accor.Scheduler\Accor.Scheduleler.Delicard_XML_Posten_Plugin\bin\Debug\Accor.Scheduler.PluginInterfaces.dll
+E:\Source\Från jobbet\AccorSvn\Accor.Scheduler\Accor.Scheduleler.Delicard_XML_Posten_Plugin\bin\Debug\Accor.Scheduler.PluginInterfaces.pdb
+E:\Source\Från jobbet\AccorSvn\Accor.Scheduler\Accor.Scheduleler.Delicard_XML_Posten_Plugin\obj\Debug\ResolveAssemblyReference.cache
+E:\Source\Från jobbet\AccorSvn\Accor.Scheduler\Accor.Scheduleler.Delicard_XML_Posten_Plugin\obj\Debug\Accor.Scheduler.Delicard_XML_Posten_Plugin.dll
+E:\Source\Från jobbet\AccorSvn\Accor.Scheduler\Accor.Scheduleler.Delicard_XML_Posten_Plugin\obj\Debug\Accor.Scheduler.Delicard_XML_Posten_Plugin.pdb
