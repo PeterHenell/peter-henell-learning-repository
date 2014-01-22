@@ -8,9 +8,9 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyTitle("DataProducerNewDataStructurePOC")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("Net Entertainment NE, AB")]
+[assembly: AssemblyCompany("Peter Henell")]
 [assembly: AssemblyProduct("DataProducerNewDataStructurePOC")]
-[assembly: AssemblyCopyright("Copyright © Net Entertainment NE, AB 2013")]
+[assembly: AssemblyCopyright("Copyright © Peter Henell")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
