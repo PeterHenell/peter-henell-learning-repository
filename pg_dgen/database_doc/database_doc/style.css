@@ -1,0 +1,59 @@
+﻿/*body {
+    background-color: lightblue;
+}
+
+.column_table table {
+    margin: 3px;
+    border: dotted 1px solid;
+    border-color: lightgray;
+    background: red;
+}
+.column_table td th {
+    
+    border: dotted 1px;
+    border-color:lightgrey;
+    text-align: right;
+    margin-left: 10px;
+}
+  
+
+a:link {
+    text-decoration: none;
+}
+
+a:visited {
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+a:active {
+    text-decoration: underline;
+}*/
+
+/*column_table th {
+    width: 250px;
+}*/
+
+#mainContainer {
+    width: 800px;
+    overflow: auto;
+}
+
+#menuContainer {
+    width: 300px;
+    
+}
+
+#databaseDocumentationContainer {
+    width: auto;
+    position: static;
+    margin-left: 300px;
+
+}
+
+div.tableContainer {
+    border: 1px solid black;
+}

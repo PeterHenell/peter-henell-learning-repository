@@ -23,6 +23,7 @@ lineNumberColor=129,150,154
 matchingTagIndicationColor=97,97,97
 occurrenceIndicationColor=97,97,97
 org.eclipse.cdt.ui.occurrenceIndicationColor=97,97,97
+overviewRuler_migration=migrated_3.1
 printMarginColor=129,150,154
 pydevOccurrenceIndicationColor=97,97,97
 searchResultIndicationColor=97,97,97

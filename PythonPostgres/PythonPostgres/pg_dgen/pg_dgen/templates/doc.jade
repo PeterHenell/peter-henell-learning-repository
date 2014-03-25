@@ -1,0 +1,12 @@
+!!! 5
+html(lang="en")
+	head
+	title Database Documentation for #{db.name}
+	body
+		for t in db.tables
+			h1.title #{t.name}
+			.table
+				h2 Columns
+				ul
+					for c in t.columns
+						li= c

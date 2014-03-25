@@ -1,0 +1,222 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <script src="http://code.jquery.com/jquery-latest.min.js"></script>
+    <script src="http://ajax.microsoft.com/ajax/jquery.templates/beta1/jquery.tmpl.min.js"></script>
+    <script src="http://code.jquery.com/ui/1.10.4/jquery-ui.js"></script>
+    <link rel="stylesheet" type="text/css" href="style.css">
+    <link rel="stylesheet" href="http://code.jquery.com/ui/1.10.4/themes/smoothness/jquery-ui.css">
+</head>
+<body>
+
+    <div id="mainContainer">
+
+        <div id="menuContainer">
+            <div class="ui-widget">
+                <label for="searchForObjects">Search: </label>
+                <input id="searchForObjects">
+            </div>
+            <ul id="menu"></ul>
+        </div>
+
+        <div id="databaseDocumentationContainer"></div>
+
+    </div>
+
+    <script id="menuTemplate" type="text/x-jQuery-tmpl">
+        <li><a>Tables:</a>
+            <ul>
+                {{each tables}} {{tmpl($value) "#menuitemTemplate"}} {{/each}}
+            </ul>
+        </li>
+        <li><a>Functions:</a>
+            <ul>
+                {{each tables}} {{tmpl($value) "#menuitemTemplate"}} {{/each}}
+            </ul>
+        </li>
+        <!-- <ul>
+            {{each functions}} <li>${$value.Schema}.${$value.Name}</li> {{/each}}
+        </ul>-->
+    </script>
+
+    <script id="databaseTemplate" type="text/x-jQuery-tmpl">
+        <div id="tablesListdiv">
+            {{tmpl(tables) "#tableTemplate"}}
+           
+        </div>
+    </script>
+
+    <script id="menuitemTemplate" type="text/x-jQuery-tmpl">
+        <li><a href="#${Schema}_${Name}_table">${Schema}.${Name}</a></li>
+    </script>
+
+    <script id="tableTemplate" type="text/x-jQuery-tmpl">
+        <!-- table Template -->
+        <a id="${Schema}_${Name}_table">
+            <div class="tableContainer">
+                <h3>${Schema}.${Name}</h3>
+
+                {{if Columns }}
+            <table class="column_table">
+                <thead>
+                    <tr>
+                        <th>Column Name</th>
+                        <th>Datatype</th>
+
+                    </tr>
+                </thead>
+                <tbody>
+                    {{tmpl(Columns) "#columnTemplate"}}
+                </tbody>
+            </table>
+                <br />
+                {{/if}}
+            {{if Indexes }}
+                <h3>Indexes</h3>
+                <div>
+                    {{tmpl(Indexes) "#indexTemplate"}}
+                </div>
+                {{/if}}
+            </div>
+        </a>
+    </script>
+
+    <script id="columnTemplate" type="text/x-jQuery-tmpl">
+        <!-- column template -->
+        <tr>
+            <td>${Name}</td>
+            <td>${Datatype}</td>
+
+        </tr>
+    </script>
+
+    <script id="functionTemplate" type="text/x-jQuery-tmpl">
+        <!-- function template -->
+        ${Name}
+    </script>
+
+    <script id="indexTemplate" type="text/x-jQuery-tmpl">
+        <!-- index template -->
+        <div class="index_div">
+            <p>${Name} (${KeyColumns}){{if Unique }}, Unique {{/if}}</p>
+        </div>
+    </script>
+
+    <script type="text/javascript">
+        var products = {
+            "tables": [
+                {
+                    "Name": "AboutProduct",
+                    "label": "AboutProduct",
+                    "Schema": "dbo",
+                    "Columns": [
+                        { "Name": "AboutProductId", "Datatype": "int", "Constraints": "" },
+                        { "Name": "DeployDate", "Datatype": "datetime", "Constraints": "" },
+                        { "Name": "ProductName", "Datatype": "varchar(500)", "Constraints": "" },
+                        { "Name": "Version", "Datatype": "int", "Constraints": "" }
+                    ],
+                    "Indexes": [
+                        { "Name": "PK_AboutProduct", "KeyColumns": "AboutProductId", "Unique": "true", "Filter": "" }
+                    ]
+                },
+                {
+                    "Name": "Account",
+                    "label": "Account",
+                    "Schema": "dbo",
+                    "Columns": [
+                        { "Name": "AboutProductId", "Datatype": "int" },
+                        { "Name": "DeployDate", "Datatype": "datetime" },
+                        { "Name": "ProductName", "Datatype": "varchar(500)" },
+                        { "Name": "Version", "Datatype": "int" }
+                    ],
+                    "Indexes": [
+                        { "Name": "PK_AboutProduct", "KeyColumns": "AboutProductId", "Unique": "true", "Filter": "" }
+                    ]
+                },
+                {
+                    "Name": "Product",
+                    "label": "Product",
+                    "Schema": "dbo",
+                    "Columns": [
+                        { "Name": "AboutProductId", "Datatype": "int" },
+                        { "Name": "DeployDate", "Datatype": "datetime" },
+                        { "Name": "ProductName", "Datatype": "varchar(500)" },
+                        { "Name": "Version", "Datatype": "int" }
+                    ],
+                    "Indexes": [
+                        { "Name": "PK_AboutProduct", "KeyColumns": "AboutProductId", "Unique": "true", "Filter": "" }
+                    ]
+                }
+                ,
+                {
+                    "Name": "Product2",
+                    "label": "Product2",
+                    "Schema": "dbo",
+                    "Columns": [
+                        { "Name": "AboutProductId", "Datatype": "int" },
+                        { "Name": "DeployDate", "Datatype": "datetime" },
+                        { "Name": "ProductName", "Datatype": "varchar(500)" },
+                        { "Name": "Version", "Datatype": "int" }
+                    ],
+                    "Indexes": [
+                        { "Name": "PK_AboutProduct", "KeyColumns": "AboutProductId", "Unique": "true", "Filter": "" }
+                    ]
+                }
+                ,
+                {
+                    "Name": "Product3",
+                    "label": "Product3",
+                    "Schema": "dbo",
+                    "Columns": [
+                        { "Name": "AboutProductId", "Datatype": "int" },
+                        { "Name": "DeployDate", "Datatype": "datetime" },
+                        { "Name": "ProductName", "Datatype": "varchar(500)" },
+                        { "Name": "Version", "Datatype": "int" }
+                    ],
+                    "Indexes": [
+                        { "Name": "PK_AboutProduct", "KeyColumns": "AboutProductId", "Unique": "true", "Filter": "" }
+                    ]
+                }
+                ,
+                {
+                    "Name": "Product4",
+                    "label": "product4",
+                    "Schema": "dbo",
+                    "Columns": [
+                        { "Name": "AboutProductId", "Datatype": "int" },
+                        { "Name": "DeployDate", "Datatype": "datetime" },
+                        { "Name": "ProductName", "Datatype": "varchar(500)" },
+                        { "Name": "Version", "Datatype": "int" }
+                    ],
+                    "Indexes": [
+                        { "Name": "PK_AboutProduct", "KeyColumns": "AboutProductId", "Unique": "true", "Filter": "" }
+                    ]
+                }
+            ]
+        }
+
+        // $("#databaseTemplate").tmpl(products).appendTo("#databaseDocumentationContainer");
+        $("#menuTemplate").tmpl(products).appendTo("#menu");
+
+        $("#searchForObjects").autocomplete({
+            minLength: 0,
+            source: products.tables,
+            focus: function (event, ui) {
+                $("#searchForObjects").val(ui.item.Name);
+                return false;
+            },
+            select: function (event, ui) {
+                $("#databaseDocumentationContainer").html($("#tableTemplate").tmpl(ui.item));
+                return false;
+            }
+        })
+        .data("ui-autocomplete")._renderItem = function (ul, item) {
+            return $("#menuitemTemplate").tmpl(item).appendTo(ul);
+        };
+
+
+    </script>
+
+
+</body>
+</html>
