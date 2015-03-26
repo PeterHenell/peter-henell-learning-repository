@@ -9,20 +9,13 @@ $(document).ready(function(){
     });
 });
 
-function myFunction(data) {
-    alert(data.foo);
-	alert(data.baz);              // The function returns the product of p1 and p2
-}
-
 $(document).ready(function(){
 	$("input").click(function(){
-	    $.getJSON("/Home/SomeActionMethod/5",
+	    $.getJSON("/Home/SomeActionMethod?id=5",
 		    function(data) {
-		        alert(data.foo);
-		        alert(data.baz);
+		       $('#results').append("<li>" +JSON.stringify(data)+ "</li>");
 		    }
 		);
-		//$(this).hide();
 	});
 });
 
@@ -30,15 +23,16 @@ $(document).ready(function(){
 </head>
 <body>
 
-<p>If you click on me, I will disappear.</p>
-<p>Click me away!</p>
-<p>Click me too!</p>
+
 <input type="button" value="click me" />
+
 <form action="" method="post">
 	<input type="submit" value="send" />
 </form>
 
-
+<div>
+	<ol id="results"></ol>
+</div>
 
 </body>
 </html>

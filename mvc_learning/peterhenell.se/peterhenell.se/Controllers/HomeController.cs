@@ -23,7 +23,13 @@ namespace peterhenell.se.Controllers
 
 		public JsonResult SomeActionMethod() 
 		{ 
-			return Json(new {foo="bar", baz="Blech"}, JsonRequestBehavior.AllowGet);
+			int inputId;
+			if (int.TryParse (Request ["id"], out inputId)) {
+				// do lookup
+				return Json (new {foo = "bar", baz = "Blech", id = inputId}, JsonRequestBehavior.AllowGet);
+			} else {
+				throw new FormatException ("id");
+			}
 		}
 	
 	}
