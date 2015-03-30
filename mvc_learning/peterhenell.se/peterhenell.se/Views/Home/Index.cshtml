@@ -17,6 +17,23 @@ $(document).ready(function(){
 		    }
 		);
 	});
+
+	$('#post-json').click(function(){
+			var userName = "peter.henell";
+			var password = "hemligt";
+		$.ajax("/Home/PostMethod", {
+			
+		    data : JSON.stringify({ "userName": userName, "password" : password }),
+		    contentType : 'application/json',
+		    type : 'POST',
+		    success: function (data) {
+		        alert(data.when); 
+		        },
+		    error: function(error) {
+		    	alert(error);
+		    }
+		    });
+	});
 });
 
 </script>
@@ -25,6 +42,8 @@ $(document).ready(function(){
 
 
 <input type="button" value="click me" />
+
+<input type="button" id="post-json" value="post json" />
 
 <form action="" method="post">
 	<input type="submit" value="send" />

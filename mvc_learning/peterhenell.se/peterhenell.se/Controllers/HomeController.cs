@@ -20,7 +20,6 @@ namespace peterhenell.se.Controllers
 			return View ();
 		}
 
-
 		public JsonResult SomeActionMethod() 
 		{ 
 			int inputId;
@@ -31,7 +30,10 @@ namespace peterhenell.se.Controllers
 				throw new FormatException ("id");
 			}
 		}
-	
+
+		public JsonResult PostMethod(){
+			return Json (new {coolness = "uber", when = DateTime.Now.ToString ()});
+		}
 	}
 }
 
